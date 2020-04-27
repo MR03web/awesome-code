@@ -32,3 +32,9 @@ Awesome In Code
 
 - [prettier](https://github.com/prettier/prettier)
 - [babel-plugin-import](https://github.com/ant-design/babel-plugin-import)
+
+## 标准和规范
+
+- [WHATWG community](https://whatwg.org)
+- [WHATWG HTML Living Standard](https://html.spec.whatwg.org/multipage)
+- [WHATWG DOM Living Standard](https://dom.spec.whatwg.org)

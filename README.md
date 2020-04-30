@@ -25,6 +25,12 @@ Awesome In Code
 ### React Native 文档
 
 - [官方文档](https://reactnative.dev/)
+- [中文文档](https://reactnative.cn/)
+
+### React Native 资源
+
+- [awesome-react-native](https://github.com/jondot/awesome-react-native)
+- [awesome-reactnative-ui](https://github.com/madhavanmalolan/awesome-reactnative-ui)
 
 ### React Native 常用库
 

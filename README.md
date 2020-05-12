@@ -25,18 +25,38 @@ Awesome In Code
 ### React Native 文档
 
 - [官方文档](https://reactnative.dev/)
-- [中文文档](https://reactnative.cn/)
+- [中文文档](https://reactnative.cn/) - React Native 中文网
 
 ### React Native 资源
 
 - [awesome-react-native](https://github.com/jondot/awesome-react-native)
 - [awesome-reactnative-ui](https://github.com/madhavanmalolan/awesome-reactnative-ui)
+- [Expo](https://docs.expo.io/) - Expo 是通用 React 应用程序的框架和平台。它是一组围绕 react-native 和原生平台构建的功能，工具和服务，可以让你用同样的 JS/TS 代码，在 iOS、 Android 和 web 应用程序上开发、构建、部署和快速迭代。
+- [js.coach](https://js.coach/) - JavaScript 包搜索工具，可以找到许多 React/React Native/Webpack 等当下流行 JS 技术栈的扩展。
+
+### React Native 推荐库
+
+推荐在开发中使用的库，原则上更新频繁
+
+- [react-native-template-typescript](https://github.com/react-native-community/react-native-template-typescript) - 初始化 Typescript 的 react-naitve 项目，超棒
+- [React Navigation](https://reactnavigation.org/)
+- [react-native-vector-icons](https://github.com/oblador/react-native-vector-icons)
+- [react-native-netinfo](https://github.com/react-native-community/react-native-netinfo) - React Native Network Info API for Android & iOS
 
 ### React Native 常用库
 
-- [React Navigation](https://reactnavigation.org/)
-- [react-native-vector-icons](https://github.com/oblador/react-native-vector-icons)
+开发中根据需要常用到的库，原则上不能太久不更新
+
 - [react-native-toast-hybrid](https://github.com/listenzz/react-native-toast-hybrid) - 跨平台的有图标提示的 toast 组件
+- [react-native-pushy](https://github.com/reactnativecn/react-native-pushy) - ReactNative 中文网推出的代码热更新服务
+- [react-native-geolocation-service](https://github.com/Agontuk/react-native-geolocation-service) - 修复使用 react-native 的 Geolocation API 时 android 上的超时问题
+- [react-native-audio-toolkit](https://github.com/react-native-community/react-native-audio-toolkit) - Cross-platform audio library for React Native
+
+### React Native 备用库
+
+如有必须，可以使用的库
+
+- [react-native-picker-select](https://github.com/lawnstarter/react-native-picker-select)
 
 ## CSS preProcessor
 

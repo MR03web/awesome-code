@@ -16,9 +16,15 @@ Awesome In Code
 - [Create React App](https://create-react-app.dev) - Set up a modern web app by running one command.
 - [awesome-react](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem
 
-### React 常用库
+### React 推荐库
 
 - [react-router](https://reacttraining.com/react-router)
+
+### React 常用库
+
+- [reconnecting-websocket](https://github.com/pladaria/reconnecting-websocket) 让 websocket 重新连接,cool
+
+### React 备用库
 
 ## React Native
 
@@ -36,7 +42,7 @@ Awesome In Code
 
 ### React Native 推荐库
 
-推荐在开发中使用的库，原则上更新频繁，React Native 最新版兼容
+推荐在开发中使用的库，原则上更新频繁，测试 React Native 最新版兼容
 
 - [react-native-template-typescript](https://github.com/react-native-community/react-native-template-typescript) - 初始化 Typescript 的 react-naitve 项目，超棒
 - [React Navigation](https://reactnavigation.org/)
@@ -47,7 +53,7 @@ Awesome In Code
 
 ### React Native 常用库
 
-开发中根据需要常用到的库，原则上不能太久不更新，React Native 最新版兼容
+开发中根据需要常用到的库，原则上不能太久不更新，测试 React Native 最新版兼容
 
 - [react-native-toast-hybrid](https://github.com/listenzz/react-native-toast-hybrid) - 跨平台的有图标提示的 toast 组件
 - [react-native-pushy](https://github.com/reactnativecn/react-native-pushy) - ReactNative 中文网推出的代码热更新服务
@@ -56,11 +62,12 @@ Awesome In Code
 
 ### React Native 备用库
 
-如有必须，可以使用的库，React Native 最新版兼容
+如有必须，可以使用的库，测试 React Native 最新版兼容
 
 - [react-native-picker-select](https://github.com/lawnstarter/react-native-picker-select)
-- [react-navigation-backhandler](https://github.com/vonovak/react-navigation-backhandler) - 在使用 React Navigatio 时处理后退键的库，后来看了源码挺简单的，基本和文档差不多，自己写一个也行，用这个也行
+- [react-navigation-backhandler](https://github.com/vonovak/react-navigation-backhandler) - 在使用 React Navigation 时处理后退键的库，后来看了源码挺简单的，基本和文档差不多，自己写一个也行，用这个也行
 - [react-native-tree-select](https://github.com/suwu150/react-native-tree-select) - 树形选择组件
+- [react-native-helpers](https://github.com/WrathChaos/react-native-helpers) - 辅助工具，简练但是有用
 
 ## CSS preProcessor
 

@@ -23,6 +23,7 @@ Awesome In Code
 ### React 常用库
 
 - [reconnecting-websocket](https://github.com/pladaria/reconnecting-websocket) 让 websocket 重新连接,cool
+- [braft-editor](https://github.com/margox/braft-editor) 富文本编辑器
 
 ### React 备用库
 
@@ -45,7 +46,7 @@ Awesome In Code
 推荐在开发中使用的库，原则上更新频繁，测试 React Native 最新版兼容
 
 - [react-native-template-typescript](https://github.com/react-native-community/react-native-template-typescript) - 初始化 Typescript 的 react-naitve 项目，超棒
-- [React Navigation](https://reactnavigation.org/)
+- [react-navigation](https://reactnavigation.org/)
 - [react-native-vector-icons](https://github.com/oblador/react-native-vector-icons)
 - [react-native-netinfo](https://github.com/react-native-community/react-native-netinfo) - React Native Network Info API for Android & iOS
 - [react-native-gesture-handler](https://github.com/software-mansion/react-native-gesture-handler)
@@ -75,7 +76,7 @@ Awesome In Code
 
 ## ESLint
 
-- [eslint-config-airbnb-typescript](https://github.com/iamturns/eslint-config-airbnb-typescript) - irbnb's ESLint config with TypeScript support
+- [eslint-config-airbnb-typescript](https://github.com/iamturns/eslint-config-airbnb-typescript) - airbnb's ESLint config with TypeScript support
 
 ## Other
 

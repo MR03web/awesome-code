@@ -51,24 +51,25 @@ Awesome In Code
 - [react-native-netinfo](https://github.com/react-native-community/react-native-netinfo) - React Native Network Info API for Android & iOS
 - [react-native-gesture-handler](https://github.com/software-mansion/react-native-gesture-handler)
 - [react-native-gesture-handler 文档](https://software-mansion.github.io/react-native-gesture-handler/)
+- [react-native-toast-hybrid](https://github.com/listenzz/react-native-toast-hybrid) - 跨平台的有图标提示的 toast 组件
 
 ### React Native 常用库
 
 开发中根据需要常用到的库，原则上不能太久不更新，测试 React Native 最新版兼容
 
-- [react-native-toast-hybrid](https://github.com/listenzz/react-native-toast-hybrid) - 跨平台的有图标提示的 toast 组件
 - [react-native-pushy](https://github.com/reactnativecn/react-native-pushy) - ReactNative 中文网推出的代码热更新服务
 - [react-native-geolocation-service](https://github.com/Agontuk/react-native-geolocation-service) - 修复使用 react-native 的 Geolocation API 时 android 上的超时问题
 - [react-native-audio-toolkit](https://github.com/react-native-community/react-native-audio-toolkit) - Cross-platform audio library for React Native
+- [react-native-notifier](https://github.com/seniv/react-native-notifier) - 很不错的应用内通知组件
 
 ### React Native 备用库
 
-如有必须，可以使用的库，测试 React Native 最新版兼容
+如有必须，可以使用的库，测试 React Native 最新版兼容，因为有些库很久不再更新了
 
 - [react-native-picker-select](https://github.com/lawnstarter/react-native-picker-select)
 - [react-navigation-backhandler](https://github.com/vonovak/react-navigation-backhandler) - 在使用 React Navigation 时处理后退键的库，后来看了源码挺简单的，基本和文档差不多，自己写一个也行，用这个也行
 - [react-native-tree-select](https://github.com/suwu150/react-native-tree-select) - 树形选择组件
-- [react-native-helpers](https://github.com/WrathChaos/react-native-helpers) - 辅助工具，简练但是有用
+- [react-native-helpers](https://github.com/WrathChaos/react-native-helpers) - 辅助工具，简练但是有用，看看代码就行
 
 ## CSS preProcessor
 

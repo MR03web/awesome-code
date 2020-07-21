@@ -89,9 +89,3 @@ Awesome In Code
 - [WHATWG community](https://whatwg.org)
 - [WHATWG HTML Living Standard](https://html.spec.whatwg.org/multipage)
 - [WHATWG DOM Living Standard](https://dom.spec.whatwg.org)
-
-## Flutter
-
-### Flutter 文档
-
-- [官方文档](https://flutter.dev/)

@@ -19,6 +19,7 @@ Awesome In Code
 ### React 推荐库
 
 - [react-router](https://reacttraining.com/react-router)
+- [react-lazyload](https://github.com/twobin/react-lazyload) - 懒加载
 
 ### React 常用库
 
@@ -78,6 +79,10 @@ Awesome In Code
 ## ESLint
 
 - [eslint-config-airbnb-typescript](https://github.com/iamturns/eslint-config-airbnb-typescript) - airbnb's ESLint config with TypeScript support
+
+## Jest
+
+- [官方文档](https://jestjs.io)
 
 ## Other
 

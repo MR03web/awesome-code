@@ -2,13 +2,7 @@
 
 ## Android 站点
 
-- [官方](https://Android.dev/)
-- [中文](https://Android.cn/)
-- [中文](https://Androidchina.club/)
-
 ## Android SDK
-
-- [中文](https://Android.cn/docs/development/tools/sdk/releases/)
 
 ## Android 资源
 

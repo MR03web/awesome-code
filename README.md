@@ -39,7 +39,8 @@ Awesome In Code
 
 - [awesome-react-native](https://github.com/jondot/awesome-react-native)
 - [awesome-reactnative-ui](https://github.com/madhavanmalolan/awesome-reactnative-ui)
-- [Expo](https://docs.expo.io/) - Expo 是通用 React 应用程序的框架和平台。它是一组围绕 react-native 和原生平台构建的功能，工具和服务，可以让你用同样的 JS/TS 代码，在 iOS、 Android 和 web 应用程序上开发、构建、部署和快速迭代。
+- [react-native-guide](https://github.com/reactnativecn/react-native-guide/) - 汇集 React-Native 各类学习资源
+- [Expo](https://docs.expo.io/) - Expo 是通用 React 应用程序的框架和平台。它是一组围绕 react-native 和原生平台构建的功能，工具和服务，可以让你用同样的 JS/TS 代码，在 iOS、 Android 和 web 应用程序上开发、构建、部署和快速迭代。(个人还是倾向于本地打包的开发方式)
 - [js.coach](https://js.coach/) - JavaScript 包搜索工具，可以找到许多 React/React Native/Webpack 等当下流行 JS 技术栈的扩展。
 
 ### React Native 推荐库
@@ -71,6 +72,10 @@ Awesome In Code
 - [react-navigation-backhandler](https://github.com/vonovak/react-navigation-backhandler) - 在使用 React Navigation 时处理后退键的库，后来看了源码挺简单的，基本和文档差不多，自己写一个也行，用这个也行
 - [react-native-tree-select](https://github.com/suwu150/react-native-tree-select) - 树形选择组件
 - [react-native-helpers](https://github.com/WrathChaos/react-native-helpers) - 辅助工具，简练但是有用，看看代码就行
+
+### React Native 推荐项目
+
+- [MohGovIL](https://github.com/MohGovIL/hamagen-react-native) - 以色列卫生部的 COVID-19 暴露预防应用程序，aha...
 
 ## CSS preProcessor
 
